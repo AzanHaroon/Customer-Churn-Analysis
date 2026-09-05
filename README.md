@@ -181,7 +181,7 @@ A practical retention strategy could include:
 
 ## Project Structure
 
-```text
+
 customer-churn-analysis/
 │
 ├── customer_churn_analysis.ipynb
@@ -189,6 +189,8 @@ customer-churn-analysis/
 ├── Telco-Customer-Churn.csv
 ├── README.md
 └── customer_churn.db
+## How TO RUN
+
 How to Run the Notebook
 1. Clone the Repository
 git clone https://github.com/your-username/customer-churn-analysis.git
@@ -217,9 +219,9 @@ Telco-Customer-Churn.csv
 
 Keep the CSV file in the same directory as the notebook for offline execution.
 
-Author
+## Author
 
-Muskan Haroon
+Azan haroon
 
 Computer Science Student | Data Science & Machine Learning Enthusiast
 
